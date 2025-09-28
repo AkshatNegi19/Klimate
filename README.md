@@ -35,7 +35,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/klimate.git
+git clone https://github.com/AkshatNegi19/Klimate.git
 
 # Navigate to project folder
 cd klimate
