@@ -17,7 +17,7 @@ Klimate is a simple yet powerful weather application that provides **real-time w
 - **Frontend:** React (with Hooks)  
 - **API:** OpenWeatherMap API  
 - **Styling:** CSS / Tailwind (if used)  
-- **State Management:TanStack Query
+- **State Management**:TanStack Query
 
 ---
 
