@@ -1,4 +1,4 @@
-# 🌤️ Klimate – Weather App  
+![Screenshot_28-9-2025_192731_localhost](https://github.com/user-attachments/assets/d13993ce-6735-46fa-89dd-7d1f761f1009)# 🌤️ Klimate – Weather App  
 
 Klimate is a simple yet powerful weather application that provides **real-time weather information** based on your **current location** as well as **searchable cities**. It displays **today's temperature, detailed weather conditions, and a 5-day forecast** in a clean, user-friendly interface.  
 
@@ -25,9 +25,7 @@ Klimate is a simple yet powerful weather application that provides **real-time w
 
 ## 📷 Preview  
 
-(Add screenshots or GIF of your app here)  
-
----
+![Klimate](https://github.com/user-attachments/assets/c4bb9d0e-a2fb-4c50-bc4f-3df92a07a705)
 
 ## ⚙️ Installation  
 
